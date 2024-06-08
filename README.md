@@ -19,7 +19,7 @@ This project name is **VehicleToRent Inc**. This website is about a car rental s
 
 ## Overview 
 #### General Description
-This is a website for a car rental service. Just for fun, I named it VehicleToRent Inc. On the homepage you will be able to see the available cars. Then, on the reservation page
+This is a website for a car rental service. Just for fun, I named it VehicleToRent Inc. On the homepage, you will be able to see the available cars. Then, on the reservation page
 you will find a form where you can put your information, your reservation ID, start and end time, and the additional charges that can be applied.
 
 Based on your start and end time, the system will calculate the duration. You can also see the available car types and cars associated with those types. Based on the car's rates your
@@ -28,6 +28,8 @@ total charges will be calculated.
 Now, here is an interesting part, a car has an hourly rate of 20 dollars and a daily rate of 100 dollars. So, if someone takes a car for 6 hours he has to pay 120 dollars whereas if he would
 take the car for a day he would have paid less than that. In this type of scenario, the system will detect these types of discrepancies then discount the additional charges, and provide the best payment.
 In this case, the discount will be 20 dollars.
+
+Lastly, there is a button to download your reservation information as a PDF.
 
 Here are some [**screenshots**](screenshots) of the website.
 
