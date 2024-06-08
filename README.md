@@ -7,7 +7,7 @@ This project name is **VehicleToRent Inc**. This website is about a car rental s
 * Make sure you have Node installed on your computer.
 * Then, go to the backend directory and install all the packages necessary.
 * After installing all the packages you can now run the backend with 'npm run dev' which will run your backend with Nodemon.
-* Then go to the frontend directory and also install all the packages necessary.
+* Then go to the frontend directory and here also install all the packages necessary.
 * Run the frontend with 'npm start'. Make sure to keep your backend running.
 * Hoping everything will work fine and you will be able to access this website and try out every functionality.
 
@@ -18,5 +18,12 @@ This project name is **VehicleToRent Inc**. This website is about a car rental s
 
   mongodb+srv://(username):(password)@mernproject.s6c3c1b.mongodb.net/
 * Then specify MONGO_URL=your_url
+
+### Technologies
+* For the frontend: **ReactJS**
+* For the backend: **ExpressJS(Node)**
+* For database: **MongoDB**
+* Overall **MERN** stack
+  
   
    
