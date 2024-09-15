@@ -14,7 +14,7 @@ This project name is **VehicleToRent Inc**. This website is about a car rental s
 #### Environment Variables
 * Add a .env file to your backend directory.
 * Specify PORT=Number <any port number you like except 3000 (as react will use 3000 in default)>
-* Go to MongoDB Atlas, create a cluster, and grab the connecting URL. It should look like this </br> mongodb+srv://(username):(password)@mernproject.s6c3c1b.mongodb.net/
+* Go to MongoDB Atlas, create a cluster, and grab the connecting URL. It should look like this </br> mongodb+srv://(username):(password)@(your cluster info).mongodb.net/
 * Then specify MONGO_URL=your_url
 
 ## Overview 
